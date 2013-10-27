@@ -1,0 +1,3 @@
+require './fizzbuzz'
+
+FizzBuzz::test
